@@ -1,0 +1,27 @@
+Epoch 81, Loss of train 0.125414, Res 21.91, 0.5937
+Epoch 76, Loss of train 0.125446, Res 21.9, 0.5946
+Epoch 56, Loss of train 0.126372, Res 21.89, 0.5929
+Epoch 52, Loss of train 0.124991, Res 21.88, 0.5931
+Epoch 44, Loss of train 0.126444, Res 21.87, 0.5934
+Epoch 39, Loss of train 0.125834, Res 21.86, 0.5929
+Epoch 38, Loss of train 0.126975, Res 21.85, 0.5929
+Epoch 35, Loss of train 0.126548, Res 21.84, 0.592
+Epoch 32, Loss of train 0.126471, Res 21.83, 0.5913
+Epoch 31, Loss of train 0.126622, Res 21.82, 0.5916
+Epoch 23, Loss of train 0.127664, Res 21.8, 0.5871
+Epoch 22, Loss of train 0.128282, Res 21.75, 0.5855
+Epoch 20, Loss of train 0.128257, Res 21.74, 0.5867
+Epoch 19, Loss of train 0.128196, Res 21.73, 0.5878
+Epoch 17, Loss of train 0.129207, Res 21.71, 0.5838
+Epoch 14, Loss of train 0.129507, Res 21.68, 0.5824
+Epoch 12, Loss of train 0.129395, Res 21.66, 0.5795
+Epoch 9, Loss of train 0.129596, Res 21.61, 0.579
+Epoch 5, Loss of train 0.132589, Res 21.57, 0.5733
+Epoch 4, Loss of train 0.133549, Res 21.42, 0.5652
+Epoch 3, Loss of train 0.135342, Res 21.33, 0.5587
+Epoch 2, Loss of train 0.138186, Res 21.16, 0.5523
+Epoch 1, Loss of train 0.207873, Res 20.97, 0.5356
+
+Above is ??? test. Note：None.
+========================================================================================================================
+========================================================================================================================

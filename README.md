@@ -7,4 +7,4 @@ The training dataset path is "../dataset/BSD400". Model and log will be saved in
 ### Test
 python test.py --rate=10
 
-The training dataset path is "../dataset/Set14". The reconstructed_images and the corresponding PSNR and SSIM data will be saved in the reconstructed_images folder.
+The training dataset path is "../dataset/Set14". The reconstructed_images and the corresponding PSNR and SSIM metrics will be saved in the reconstructed_images folder.
